@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Shakya</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 🔭 I’m currently working on **Video Management System**
+- 🔭 I’m currently working on **Video Management System/ Text Summarizer**
 
 - 📫 How to reach me **manojshakya444@gmail.com**
 
